@@ -1,4 +1,7 @@
-![Header](<a href="https://im.ge/i/F5miEp"><img src="https://i.im.ge/2022/07/27/F5miEp.png" alt="F5miEp.png" border="0"></a>)
+<div align="center">
+  
+ <img src="https://user-images.githubusercontent.com/106341634/181281576-e6df1654-f6d4-445c-b655-1d635e81aab7.png" width="94%"/>
+</div>
 
 ##
 
