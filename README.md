@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscastrodev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Júnior Front-end Developer
+- 🔥 Júnior Developer
 
 - 🔭 Atualmente em busca de oportunidades
 
