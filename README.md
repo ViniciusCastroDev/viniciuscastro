@@ -2,11 +2,7 @@
 
 <h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius Castro</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscastrodev&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Júnior Developer
-
-- 🔭 Atualmente em busca de oportunidades
+- 🔥 Júnior Developer .NET
 
 - ⚡ Fun fact - Adoro games, animes, musica e esportes. Faixa 💙 Jiu-jitsu | Touca 💚 Natação
 
