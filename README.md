@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ViniciusCastroDev/0709da2f89bd9101da40397a4defc96b/raw/714939972d0871f3663cc62ab8dfa7bceace488e/githubcard.svg" />
-
 <h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius Castro</h1>
 
 - 🔥 Júnior Developer .NET
